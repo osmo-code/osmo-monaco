@@ -1,0 +1,20 @@
+{
+  "name": "osmocode-monaco",
+  "version": "0.0.1",
+  "description": "Monaco editor for osmocode.",
+  "author": {
+    "name": "Osmocode",
+    "email": "osmocode@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/osmo-code/osmocode-monaco"
+  },
+  "peerDependencies": {
+    "@angular/common": "^13.2.0",
+    "@angular/core": "^13.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
